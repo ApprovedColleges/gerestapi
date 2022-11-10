@@ -1,4 +1,5 @@
-{ "Schools" : [
+{
+    "Schools": [
         {
             "id": "abilene-christian-university",
             "CompanyId": "2201",
