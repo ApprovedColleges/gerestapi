@@ -2,7 +2,7 @@
     "Schools": 
         {
             "id": {"string": {}},
-            "CompanyId": {"int": { "min": 1000, "max": 10000  }},
+            "CompanyId": {"string": {}},
             "CompanyName":{"string": {}},
             "UrlPath": {"string" : {}}
         }
