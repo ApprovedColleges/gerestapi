@@ -1,10 +1,10 @@
 {
-    "Schools": [
+    "Schools": 
         {
             "id": {"string": {}},
             "CompanyId": {"int": {}},
             "CompanyName":{"int": {}},
             "UrlPath": {"string" : {}}
         }
-    ]
+    
 }
